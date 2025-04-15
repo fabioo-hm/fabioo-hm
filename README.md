@@ -1,7 +1,7 @@
 <h1 align="left">Hola! Mi nombre es Fabio Andrés</h1>
 
 ---
-
+<img src="./ChatGPT Image 14 abr 2025, 19_23_35.png">
 <h3 align="left">Desarrollador en proceso, apasionado por la tecnología, la automatización y los proyectos con impacto real 🌍🚀</h3>
 
 ---
